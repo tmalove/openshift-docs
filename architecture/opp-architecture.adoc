@@ -5,7 +5,7 @@ include::_attributes/common-attributes.adoc[]
 
 toc::[]
 
-{product-title} is a single hybrid-cloud platform for enterprises to build, deploy, run, and manage intelligent applications securely across infrastructures. It is based on Red Hat Enterprise Linux, Kubernetes, and Red Hat {product-title}, and includes the following products:
+{product-title} is a single hybrid-cloud platform for enterprises to build, deploy, run, and manage intelligent applications securely across infrastructures. It is based on Red Hat Enterprise Linux, Kubernetes, and Red Hat {ocp}, and includes the following products:
 
 * Red Hat Advanced Cluster Management for Kubernetes - Controls clusters and applications from a single console.
 * Red Hat Advanced Cluster Security for Kubernetes - Provides information about cluster security, visibility management, and security compliance.

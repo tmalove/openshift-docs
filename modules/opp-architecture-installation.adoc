@@ -6,13 +6,13 @@
 [id="opp-architecture-installation_{context}"]
 = Installation
 
-To install {product-title}, install {product-title}, Red Hat Advanced Cluster Management, Quay, OpenShift Data Foundation Essentials, and Red Hat Advanced Cluster Security.
+To install {product-title}, install {ocp}, Red Hat Advanced Cluster Management, Quay, OpenShift Data Foundation Essentials, and Red Hat Advanced Cluster Security.
 
-IMPORTANT: You must first install {product-title}, followed by Red Hat Advanced Cluster Management. The remaining products can be installed in any order.
+IMPORTANT: You must first install {ocp}, followed by Red Hat Advanced Cluster Management. The remaining products can be installed in any order.
 
 .Procedure
 
-. Install {product-name}. For detailed information to select the specific infrastructure option and start the installation, see _Supported installation methods for different platforms_.
+. Install {ocp}. For detailed information to select the specific infrastructure option and start the installation, see _Supported installation methods for different platforms_.
 . Install Red Hat Advanced Cluster Management. For detailed information, see _Installing Red Hat Advanced Cluster Management for Kubernetes_.
 . Install the remaining products in any order:
 * Red Hat Advanced Cluster Security - for detailed information, see _Installing by using an Operator_.

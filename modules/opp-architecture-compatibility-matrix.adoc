@@ -6,11 +6,11 @@
 [id="opp-architecture-compatibility-matrix_{context}"]
 = Compatibility matrix
 
-{product-title} is based on an {product-title} release. To find the supported product release number and release notes for a given {product-title} release, see the following information:
+{product-title} is based on an {ocp} release. To find the supported product release number and release notes for a given {ocp} release, see the following information:
 
 [cols="1,1,1,1,1"]
 |===
-|{product-title} release
+|{ocp} release
 |Red Hat Advanced Cluster Management release
 |Red Hat Advanced Cluster Security release
 |Quay release

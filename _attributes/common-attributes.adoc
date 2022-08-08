@@ -38,4 +38,3 @@
 :product-title: OpenShift Platform Plus
 :product-version: .1
 :product-title-short: OPP
-
