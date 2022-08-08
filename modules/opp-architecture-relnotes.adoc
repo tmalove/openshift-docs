@@ -1,0 +1,9 @@
+// Module included in the following assemblies:
+//
+// * architecture/opp-architecture.adoc
+
+:_module-type: CONCEPT
+[id="opp-architecture-relnotes_{context}"]
+= Release notes
+
+The latest release note information is located in each product section. See the specific links in the _Compatibility matrix_ section.

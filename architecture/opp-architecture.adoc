@@ -5,6 +5,39 @@ include::_attributes/common-attributes.adoc[]
 
 toc::[]
 
-Discover {product-title} architecture and concepts.
+{product-title} is a single hybrid-cloud platform for enterprises to build, deploy, run, and manage intelligent applications securely across infrastructures. It is based on Red Hat Enterprise Linux, Kubernetes, and Red Hat {product-title}, and includes the following products:
 
-include::modules/opp-architecture-overview.adoc[leveloffset=+1]
+* Red Hat Advanced Cluster Management for Kubernetes - Controls clusters and applications from a single console.
+* Red Hat Advanced Cluster Security for Kubernetes - Provides information about cluster security, visibility management, and security compliance.
+* Red Hat Quay - A private container registry that stores, builds, and deploys container images.
+* Red Hat OpenShift Data Foundation Essentials - A data and storage services platform that provides a permanent place to store data while clusters spin up and down across environments.
+
+
+include::modules/opp-architecture-relnotes.adoc[leveloffset=+1]
+include::modules/opp-architecture-architecture.adoc[leveloffset=+1]
+include::modules/opp-architecture-compatibility-matrix.adoc[leveloffset=+1]
+
+[role="_additional-resources"]
+.Additional resources
+* xref:../https://docs.openshift.com/container-platform/4.10/release_notes/ocp-4-10-release-notes.html[OpenShift Container Platform 4.10 release notes]
+* xref:../https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.0/html/release_notes/red-hat-advanced-cluster-management-for-kubernetes-release-notes[Red Hat Advanced Cluster Management for Kubernetes release notes]
+* xref:../https://access.redhat.com/documentation/en-us/red_hat_quay/3/html/red_hat_quay_release_notes/index[Red Hat Quay Release Notes]
+* xref:../https://docs.openshift.com/acs/release_notes/369-release-notes.html[Red Hat Advanced Cluster Security for Kubernetes]
+* xref:../https://access.redhat.com/documentation/en-us/red_hat_openshift_data_foundation/4.9/html/4.9_release_notes/index[Red Hat OpenShift Data Foundation 4.9 release notes]
+
+include::modules/opp-architecture-installation.adoc[leveloffset=+1]
+include::modules/opp-architecture-support.adoc[leveloffset=+1]
+
+
+[role="_additional-resources"]
+[id="additional-resources"]
+== Additional resources
+.Installation
+* link:https://docs.openshift.com/container-platform/4.10/installing/installing-preparing.html#supported-installation-methods-for-different-platforms[Supported installation methods for different platforms]
+* link:https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.0/html/install/installing[Installing Red Hat Advanced Cluster Management]
+* link:https://docs.openshift.com/acs/installing/install-ocp-operator.html[Installing Red Hat Advanced Cluster Security for Kubernetes by using an Operator]
+* link:https://access.redhat.com/documentation/en-us/red_hat_openshift_data_foundation/4.10[Deploying Red Hat OpenShift Data Foundation 4.10]
+* link:https://access.redhat.com/documentation/en-us/red_hat_quay/3/html/deploy_red_hat_quay_on_openshift_with_the_quay_operator/index[Deploy Red Hat Quay on OpenShift with the Quay Operator]
+
+.Support
+* link:https://access.redhat.com/support/cases/#/case/list?query=%20orderBy%20lastModifiedDate%20desc&p=1&size=10&searchType=basic[Red Hat customer support portal]

@@ -1,0 +1,11 @@
+// Module included in the following assemblies:
+//
+// * architecture/opp-architecture.adoc
+
+:_module-type: CONCEPT
+[id="opp-architecture-support_{context}"]
+= Support
+
+Red Hat offers cluster administrators tools for gathering data for your cluster, monitoring, and troubleshooting.
+
+If you need assistance with your {product-title} solution, log a case in the appropriate product using its entitlement name, See the _Red Hat customer support portal_ to open a support case.

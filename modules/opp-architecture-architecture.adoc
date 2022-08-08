@@ -1,0 +1,43 @@
+// Module included in the following assemblies:
+//
+// * architecture/opp-architecture.adoc
+
+:_module-type: CONCEPT
+[id="opp-architecture-architecture_{context}"]
+= Architecture
+
+{product-title} builds on the capabilities of {product-title} with advanced multi-cluster security features, complete management capabilities, integrated data management, and a global container Registry.
+
+{product-title} consistently protects and manages applications across open hybrid cloud environments and application lifecycles.
+
+// Add graphic here
+
+{product-title} supports these additional capabilities:
+
+* Platform services
+** Service mesh, serverless
+** Builds, CI/CD Pipelines
+** GitOps, Distributed tracing
+** Log machine_management
+** Cost machine_management
+** Vulnerability machine_management
+** compliance
+
+* Application services
+** Languages and runtimes
+** API management
+** Integration
+** Messaging
+** Process automation
+
+* Data services
+** Databases, Cache
+** Data ingest and preparation
+** Data analytics
+** AI/ML
+
+* Developer services
+** Developer CLI/IDE
+** Plugins and extensions
+** CodeReady workspaces
+** CodeReady containers
