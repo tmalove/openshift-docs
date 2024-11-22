@@ -6,7 +6,7 @@
 [id="opp-architecture-compatibility-matrix_{context}"]
 = {product-title} product release compatibility matrix
 
-{product-title} is based on {ocp} {ocp-supported-version}. To find the verified release number for each {product-title} product, see the following information:
+{product-title} is based on {ocp} {ocp-supported-version}. Test testTo find the verified release number for each {product-title} product, see the following information:
 
 [cols="1,1,1,1,1"]
 |===
