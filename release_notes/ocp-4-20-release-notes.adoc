@@ -1124,6 +1124,11 @@ This prevents users from discovering certain problems only after the cache is po
 [id="ocp-release-deprecated-features_{context}"]
 === Deprecated features
 
+[id="ocp-4-20-sunset-redhat-marketplace_{context}"]
+==== Red{nbsp}Hat Marketplace is deprecated
+
+The Red{nbsp}Hat Marketplace is deprecated. Customers that use the partner software from the Marketplace should contact the software vendor about how to migrate from the Marketplace Operator to an Operator in the Red{nbsp}Hat Ecosystem Catalog. The Marketplace index will be removed in {product-title} 4.21. 
+
 [id="ocp-release-removed-features_{context}"]
 === Removed features
 
