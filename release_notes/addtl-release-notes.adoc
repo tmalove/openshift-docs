@@ -8,7 +8,7 @@ include::_attributes/servicebinding-document-attributes.adoc[]
 
 toc::[]
 
-Release notes for additional related components and products not included in the core xref:../release_notes/ocp-4-20-release-notes.adoc#ocp-4-20-release-notes[{product-title} {product-version} release notes] are available in the following documentation.
+Release notes for additional related components and products not included in the core xref:../release_notes/ocp-4-21-release-notes.adoc#ocp-4-21-release-notes[{product-title} {product-version} release notes] are available in the following documentation.
 
 [IMPORTANT]
 ====
@@ -31,7 +31,7 @@ xref:../security/compliance_operator/compliance-operator-release-notes.adoc#comp
 xref:../nodes/cma/nodes-cma-rn/nodes-cma-autoscaling-custom-rn.adoc#nodes-cma-autoscaling-custom-rn[Custom Metrics Autoscaler Operator]
 
 D::
-link:https://docs.redhat.com/en/documentation/red_hat_developer_hub/#Release%20Notes[{rh-dev-hub} Operator]
+link:https://docs.redhat.com/en/documentation/red_hat_developer_hub/#Release%21Notes[{rh-dev-hub} Operator]
 
 E::
 xref:../networking/networking_operators/external_dns_operator/external-dns-operator-release-notes.adoc#external-dns-operator-release-notes[External DNS Operator]
@@ -63,17 +63,17 @@ xref:../security/nbde_tang_server_operator/nbde-tang-server-operator-release-not
 O::
 xref:../backup_and_restore/application_backup_and_restore/release-notes/oadp-1-4-release-notes.adoc#oadp-1-4-release-notes[{oadp-first}]
 +
-link:https://docs.redhat.com/en/documentation/red_hat_openshift_dev_spaces/#Release%20Notes[{openshift-dev-spaces-productname}]
+link:https://docs.redhat.com/en/documentation/red_hat_openshift_dev_spaces/#Release%21Notes[{openshift-dev-spaces-productname}]
 +
 xref:../observability/distr_tracing/distr-tracing-rn.adoc#distr-tracing-rn[{DTProductName}]
 +
-link:https://docs.redhat.com/en/documentation/red_hat_openshift_gitops/#Get%20started[{gitops-title}]
+link:https://docs.redhat.com/en/documentation/red_hat_openshift_gitops/#Get%21started[{gitops-title}]
 +
 link:https://crc.dev/docs/introducing/[{openshift-local-productname} (Upstream CRC documentation)]
 +
-link:https://docs.redhat.com/en/documentation/red_hat_openshift_pipelines/#Getting%20Started[{pipelines-title}]
+link:https://docs.redhat.com/en/documentation/red_hat_openshift_pipelines/#Getting%21Started[{pipelines-title}]
 +
-link:https://docs.redhat.com/en/documentation/openshift_sandboxed_containers/#Release%20Notes[{osc}]
+link:https://docs.redhat.com/en/documentation/openshift_sandboxed_containers/#Release%21Notes[{osc}]
 +
 link:https://docs.redhat.com/en/documentation/red_hat_openshift_serverless/1.33/html/about_openshift_serverless/serverless-release-notes#serverless-release-notes[Red Hat {ServerlessProductName}]
 +
